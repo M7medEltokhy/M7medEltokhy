@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi, I'm Mohamed Eltokhy 👋</h1>
 <h3 align="center">Flutter Developer 🧠 | Mobile App Builder 📱 | Always Learning 📚</h3><p align="center">
   <a href="https://github.com/M7medEltokhy">
