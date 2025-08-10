@@ -1,8 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Mohamed Eltokhy 👋</h1>
-<h3 align="center">Flutter Developer | Mobile App Enthusiast</h3>
-<p align="center">
+<h3 align="center">Flutter Developer 🧠 | Mobile App Builder 📱 | Always Learning 📚</h3><p align="center">
   <a href="https://github.com/M7medEltokhy">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
   </a>
