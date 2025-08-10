@@ -31,12 +31,20 @@
 
 ---
 
-## 🛠 Tech Stack
-- **Languages**: Dart, Java, C++  
-- **Frameworks**: Flutter  
-- **Tools**: Android Studio, VS Code, Git, GitHub, Firebase  
-- **Databases**: Firebase Firestore  
-- **Other Skills**: API Integration, Unit Testing, UI/UX Implementation  
+
+- ## 💻 Tech Stack
+
+### Programming Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android%20studio&logoColor=white)
+
 
 ---
 
