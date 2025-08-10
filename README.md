@@ -57,8 +57,8 @@ A Flutter app to save and manage meal ingredients with an easy-to-use UI.
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M7medEltokhy&show_icons=true&theme=tokyonight" width="420" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7medEltokhy&layout=compact&theme=tokyonight" width="420" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M7medEltokhy&show_icons=true&theme=tokyonight&cache_seconds=1800" width="420" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7medEltokhy&layout=compact&theme=tokyonight&cache_seconds=1800" width="420" height="165" alt="Top Languages" />
 </p>
 
 
